@@ -1,0 +1,1 @@
+console.log("const difference = 45 - 33;")
