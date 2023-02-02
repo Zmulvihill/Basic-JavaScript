@@ -1,2 +1,2 @@
-console.log("var b;
-b = a;")
+var b;
+b = a;
