@@ -1,4 +1,4 @@
-console.log("// Variable declarations
+// Variable declarations
 var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
@@ -6,4 +6,4 @@ var titleCaseOver;
 // Variable assignments
 studlyCapVar = 10;
 properCamelCase = "A String";
-titleCaseOver = 9000;")
+titleCaseOver = 9000;
