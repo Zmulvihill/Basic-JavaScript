@@ -1,2 +1,2 @@
-console.log("let catName = "Oliver";
-let catSound = "Meow!";")
+let catName = "Oliver";
+let catSound = "Meow!";
