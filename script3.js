@@ -1,2 +1,2 @@
-console.log("var a;
-a = 7;")
+var a;
+a = 7;
