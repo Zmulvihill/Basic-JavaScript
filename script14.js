@@ -1,0 +1,1 @@
+console.log("const quotient = 66 / 33;")
