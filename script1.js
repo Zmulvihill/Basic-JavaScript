@@ -1,2 +1,2 @@
-console.log(// This is a test.)
-console.log(/* This is also a test. */)
+// This is a test.
+/* This is also a test. */

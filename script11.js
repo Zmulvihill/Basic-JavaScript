@@ -1,1 +1,2 @@
-console.log("const sum = 10 + 10;")
+const sum = 10 + 10;
+console.log(sum)
