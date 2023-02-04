@@ -1,1 +1,2 @@
-console.log("const remainder = 11 % 3;")
+const remainder = 11 % 3;
+console.log(remainder)
