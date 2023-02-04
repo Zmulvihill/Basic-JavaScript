@@ -1,1 +1,2 @@
-console.log("const product = 8 * 10;")
+const product = 8 * 10;
+console.log(product)
