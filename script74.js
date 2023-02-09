@@ -9,4 +9,5 @@ function testSize(num) {
     // Only change code above this line
   }
   
-  testSize(7);
+  var result = testSize(7);
+  console.log(result)
