@@ -11,3 +11,5 @@ function testSize(num) {
   
   var result = testSize(7);
   console.log(result)
+  var result2 = testSize(14);
+  console.log(result2)

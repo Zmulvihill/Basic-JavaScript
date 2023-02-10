@@ -20,4 +20,5 @@ function caseInSwitch(val) {
     return answer;
   }
   
-  caseInSwitch(1);
+ var result = caseInSwitch(1);
+ console.log(result)
