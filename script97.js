@@ -1,4 +1,4 @@
-//Iterate with JavaScript For Loops continued
+//Iterate with JavaScript For Loops
 // Setup
 const myArray = [];
 
